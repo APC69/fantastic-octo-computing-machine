@@ -1,0 +1,20 @@
+.centered-link {  
+    display: block;                /* Делаем ссылку блочным элементом */  
+    width: fit-content;           /* Ширина по содержимому */  
+    margin: 0 auto;
+    color: black;               /* Автоматические отступы по бокам */  
+}
+body {  
+    margin: 0;  
+    padding: 0;  
+    background: url(back.png) 
+}  
+p{
+    text-align: center;
+    color: black; 
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{ 
+    text-align: center ;
+    font-size: medium;
+}
